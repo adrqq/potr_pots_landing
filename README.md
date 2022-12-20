@@ -4,4 +4,4 @@ This project implements this [Figma design](https://www.figma.com/file/50zgLU65M
 
 Layout created using HTML and SCSS according to BEM methodology.
 
-[WORKING DEMO](https://sergii-nosachenko.github.io/Potr_Pots/)
+[WORKING DEMO](https://adrqq.github.io/potr_pots_landing/)
